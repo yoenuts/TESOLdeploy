@@ -1,11 +1,15 @@
 import React, { Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from "../components/carouselImages";
+import 'malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css';
+import 'malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js';
+
 
 class Home extends React.Component {
     //check if component mounted on DOM, then target class nd execute the function import on it.
 
     componentDidMount() {
+        console.log("COmponent mounted");
         $('.mCustomScrollbar').mCustomScrollbar({
             theme: 'light-thin'
         });
