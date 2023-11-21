@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TESOLdeploy/static/css/main.e59a0746.css",
+    "main.js": "/TESOLdeploy/static/js/main.3891cf53.js",
+    "static/media/research-background.png": "/TESOLdeploy/static/media/research-background.7f1781fd68692adf3c9a.png",
+    "static/media/section-background.png": "/TESOLdeploy/static/media/section-background.91bfc90b49e62da6b25d.png",
+    "static/media/GET-background-blur.png": "/TESOLdeploy/static/media/GET-background-blur.5658bd16523ad0b5350f.png",
+    "index.html": "/TESOLdeploy/index.html",
+    "main.e59a0746.css.map": "/TESOLdeploy/static/css/main.e59a0746.css.map",
+    "main.3891cf53.js.map": "/TESOLdeploy/static/js/main.3891cf53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e59a0746.css",
+    "static/js/main.3891cf53.js"
+  ]
+}
