@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from "../components/carouselImages";
 import 'malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css';
 import 'malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js';
+import $ from 'jquery';
 
 
 class Home extends React.Component {
