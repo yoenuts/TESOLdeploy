@@ -67,7 +67,7 @@ function NavBar() {
 			<Container>
 				<Navbar.Brand>
 						<Link to='/'>
-							<img src="../img/GET-logo.PNG" alt="Guild of Educators in TESOL International Institute" className="logo"></img>
+							<img src="%PUBLIC_URL%/img/GET-logo.PNG" alt="Guild of Educators in TESOL International Institute" className="logo"></img>
 						</Link>
 				</Navbar.Brand>
 				<div className="title-container">
